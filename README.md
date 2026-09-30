@@ -1,6 +1,6 @@
 # Hi, I'm Azra Batool 👋
 
-### Data Analyst | Excel | SQL | Python | Power BI
+### Data Analytics | Excel | SQL | Python | Power BI
 
 I am a Data Analytics professional with a postgraduate background
 in Software Engineering and experience supporting data collection,
